@@ -3,6 +3,7 @@
 After Reading #welcome you have the option to join a regiment of your choosing. We currently offer 4 regiments which each offer a different experience. 
 
 **Regiments:**
+
 :Leib: @Leib-Guard - https://www.roblox.com/groups/4919168/Leib-Guard-Battalion-Brunswick-Corps#!/about
 
 :KGL: @KGL - https://www.roblox.com/groups/4915516/8th-Line-Battalion-Kings-German-Legion#!/about
